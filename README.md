@@ -1,5 +1,5 @@
 # Progressed Factorio
-This a texture pack for progressed materials in Xelo's style! :o
+This a texture pack for [progressed materials](https://github.com/MEEPofFaith/progressed-materials) in [Xelo's](https://github.com/Xeloboyo/Factoriodustry/tree/6.0) style! :o
 # Already complited
 **Eruptors:**   
 I   ![image](https://user-images.githubusercontent.com/61590217/105996913-080b2b80-60bc-11eb-8c22-7072d5ae8a3c.png) ![image](https://user-images.githubusercontent.com/61590217/105996986-1eb18280-60bc-11eb-8844-530404326f1c.png)   
