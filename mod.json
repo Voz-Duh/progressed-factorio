@@ -1,0 +1,10 @@
+{
+  "name": "prog-mats-pixel-texturepack",
+  "displayName": "Progressed Factorio - TexturePack",
+  "author": "[blue]VozDuh[]",
+  "description": "",
+  "version": "0.0.1",
+  "hidden": true,
+  "minGameVersion": "105",
+  "dependencies": ["xelos-pixel-texturepack", "prog-mats"]
+}
