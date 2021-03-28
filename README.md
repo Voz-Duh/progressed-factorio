@@ -2,6 +2,7 @@
 This a texture pack for [progressed materials](https://github.com/MEEPofFaith/progressed-materials) in [Xelo's](https://github.com/Xeloboyo/Factoriodustry/tree/6.0) style! :o
 # Already complited
 
+# Blocks
 ## Turrets   
 ### Eruptors:   
 I   ![image](https://user-images.githubusercontent.com/61590217/105996913-080b2b80-60bc-11eb-8c22-7072d5ae8a3c.png) ![image](https://user-images.githubusercontent.com/61590217/105996986-1eb18280-60bc-11eb-8844-530404326f1c.png)   
@@ -28,3 +29,17 @@ Blackhole    ![image](https://user-images.githubusercontent.com/61590217/1127509
 Node   ![image](https://user-images.githubusercontent.com/61590217/109825524-f54fbd80-7c4a-11eb-86e4-3b98f3582cd2.png) ![image](https://user-images.githubusercontent.com/61590217/109825670-1adcc700-7c4b-11eb-9893-254727749ecd.png) ![image](https://user-images.githubusercontent.com/61590217/109825822-3d6ee000-7c4b-11eb-9bd3-d422e501868e.png)
 
 Source   ![image](https://user-images.githubusercontent.com/61590217/109825618-0dbfd800-7c4b-11eb-90c9-3ebb32c9bf42.png) ![image](https://user-images.githubusercontent.com/61590217/109825722-24662f00-7c4b-11eb-9b68-f46013460d9c.png) ![image](https://user-images.githubusercontent.com/61590217/109825787-35af3b80-7c4b-11eb-8865-2fa9dc932ab4.png)
+
+# Units
+
+### Sentry:    
+Basic    ![image](https://user-images.githubusercontent.com/61590217/112754011-e0184580-8fe2-11eb-97be-f2240caead41.png)    
+Dash    ![image](https://user-images.githubusercontent.com/61590217/112754030-f0c8bb80-8fe2-11eb-840c-62070a2fe153.png)    
+Strike    ![image](https://user-images.githubusercontent.com/61590217/112754041-0342f500-8fe3-11eb-83f5-4c9c6015294c.png)    
+
+# Bullets    
+
+### Strike:    
+Storm   ![image](https://user-images.githubusercontent.com/61590217/112754248-de9b4d00-8fe3-11eb-93ab-7923e5188096.png) ![image](https://user-images.githubusercontent.com/61590217/112754255-ea870f00-8fe3-11eb-8862-5d13913cf02f.png)    
+### Misc:    
+Blackhole   ![image](https://user-images.githubusercontent.com/61590217/112754293-173b2680-8fe4-11eb-9076-98cdae0c331a.png) ![image](https://user-images.githubusercontent.com/61590217/112754302-228e5200-8fe4-11eb-8add-00195f40131b.png) ![image](https://user-images.githubusercontent.com/61590217/112754322-333ec800-8fe4-11eb-8b41-45f803991376.png)    
