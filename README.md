@@ -12,13 +12,15 @@ III   ![image](https://user-images.githubusercontent.com/61590217/106031983-f2f4
 ### Tesla:   
 I   ![image](https://user-images.githubusercontent.com/61590217/105996959-178a7480-60bc-11eb-9788-77a8437273d6.png)   
 ### Miniguns:    
-I   ![image](https://user-images.githubusercontent.com/61590217/109822798-5cb83e00-7c48-11eb-80dd-acd33b77e28c.png) ![image](https://user-images.githubusercontent.com/61590217/109825038-78bcdf00-7c4a-11eb-8091-22aa4f3e6326.png)
+I   ![image](https://user-images.githubusercontent.com/61590217/109823027-97ba7180-7c48-11eb-8bd1-bbea3dfed3a4.png) ![image](https://user-images.githubusercontent.com/61590217/109825038-78bcdf00-7c4a-11eb-8091-22aa4f3e6326.png)
 
 
 II   ![image](https://user-images.githubusercontent.com/61590217/109822994-8e310980-7c48-11eb-94af-1bd37fb090b4.png) ![image](https://user-images.githubusercontent.com/61590217/109824943-60e55b00-7c4a-11eb-8225-68d633bdc72a.png)
 
 
-III   ![image](https://user-images.githubusercontent.com/61590217/109823027-97ba7180-7c48-11eb-8bd1-bbea3dfed3a4.png) ![image](https://user-images.githubusercontent.com/61590217/109824907-562ac600-7c4a-11eb-815b-396921e2a9e2.png)
+III   ![image](https://user-images.githubusercontent.com/61590217/109822798-5cb83e00-7c48-11eb-80dd-acd33b77e28c.png) ![image](https://user-images.githubusercontent.com/61590217/109824907-562ac600-7c4a-11eb-815b-396921e2a9e2.png)   
+### Misc:    
+Blackhole    ![image](https://user-images.githubusercontent.com/61590217/112750994-392cad00-8fd4-11eb-9261-a15e8cf0f662.png) ![image](https://user-images.githubusercontent.com/61590217/112750998-3fbb2480-8fd4-11eb-8c59-c15854aa7ec2.png)
 
 ## Power
 
